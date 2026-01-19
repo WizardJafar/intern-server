@@ -21,6 +21,7 @@ app.use(
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:5175",
+      "https://int-booking.vercel.app",
       "https://mentors-rho.vercel.app",
       "https://interns-lovat.vercel.app",
       "https://internship-admin-zeta.vercel.app",
