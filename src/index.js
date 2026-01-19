@@ -29,6 +29,7 @@ app.use(
       "https://interns-mars.uz",
       "https://mentors-mars.uz",
       "https://interns-admin.uz",
+      "https://int-server-1.onrender.com",
       "https://www.interns-admin.uz",
     ],
   })
